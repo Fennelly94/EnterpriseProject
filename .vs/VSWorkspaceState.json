@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\angularProject",
+    "\\angularProject\\src",
+    "\\angularProject\\src\\app",
+    "\\angularProject\\src\\app\\case5",
+    "\\angularProject\\src\\app\\navigationBar",
+    "\\angularProject\\src\\app\\services"
+  ],
+  "SelectedNode": "\\angularProject\\src\\app\\services\\stockCurrency.service.ts",
+  "PreviewInSolutionExplorer": false
+}
